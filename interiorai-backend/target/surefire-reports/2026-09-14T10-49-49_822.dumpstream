@@ -1,0 +1,5 @@
+# Created at 2026-09-14T10:49:53.215
+Boot Manifest-JAR contains absolute paths in classpath 'D:\extras from c drive\Spm Interior ai app\Interior frontend\interiorai-backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
